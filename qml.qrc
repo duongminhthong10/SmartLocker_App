@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>image/background.png</file>
+        <file>Components/InputBox.qml</file>
+        <file>Components/AlphaNumbericKeyboard.qml</file>
+        <file>Components/KeyBoard.qml</file>
+    </qresource>
+</RCC>
